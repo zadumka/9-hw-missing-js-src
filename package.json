@@ -1,11 +1,11 @@
 {
-  "name": "demo-goit-js-hw-09",
+  "name": "9-hw-missing-js-src",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/demo-goit-js-hw-09/",
+    "build": "vite build --base=/9-hw-missing-js-src/",
     "preview": "vite preview"
   },
   "devDependencies": {
